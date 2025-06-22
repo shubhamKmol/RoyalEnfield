@@ -28,11 +28,11 @@ document.addEventListener('DOMContentLoaded', function () {
     const bikeImage = document.getElementById('bike-image');
   
     const bikeImages = {
-      'hunter-350': '../images/royal/hunter-350.avif',
-      'classic-650': '../images/royal/classic-650.avif',
-      'scram-440': '../images/royal/scram-440.jpg',
-      'goan-classic-350': '../images/royal/goan-classic-350.png',
-      'bear-650': '../images/royal/bear-650.jpg',
+      'hunter-350': 'images/royal/hunter-350.avif',
+      'classic-650': 'images/royal/classic-650.avif',
+      'scram-440': 'images/royal/scram-440.jpg',
+      'goan-classic-350': 'images/royal/goan-classic-350.png',
+      'bear-650': 'images/royal/bear-650.jpg',
     //   'classic-350': 'images/classic-350.jpg',
     //   'guerrilla-450': 'images/guerrilla-450.jpg',
     //   'shotgun-650': 'images/shotgun-650.jpg',
